@@ -1,5 +1,5 @@
 {
-  "name": "делитель-класса-на-группы",
+  "name": "delitel-klassa-na-gruppy",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -14,12 +14,8 @@
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
-    "typescript": "~5.8.2",
-    "vite": "^6.2.0"
+    "typescript": "^5.0.0",
+    "vite": "^6.2.0",
+    "@vitejs/plugin-react": "^4.0.0"
   }
-}
-"devDependencies": {
-  "vite": "^5.0.0",
-  "typescript": "^5.0.0",
-  "@vitejs/plugin-react": "^4.0.0"
 }
